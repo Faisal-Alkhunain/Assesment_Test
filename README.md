@@ -45,7 +45,7 @@ This interactive dashboard provides sales analytics for SwiftShop, an e-commerce
 1. Clone the repository:
    ```bash
    git clone [repository-url]
-   cd swift-shop-analytics
+   cd [repository-name]
    ```
 
 2. Install dependencies:
@@ -59,14 +59,14 @@ This interactive dashboard provides sales analytics for SwiftShop, an e-commerce
 4. Access the dashboard at: http://127.0.0.1:8050/
 
 ## File Structure
-
+```bash
 swift-shop-analytics/
 ├── app.py                # Main application code
 ├── swiftshop_sales_data.csv  # Sample dataset (63 rows)
 ├── requirements.txt      # Python dependencies
 ├── README.md             # This documentation
 └── image.png             # Dashboard screenshot
-
+```
 ## Dataset Information
 
 The sample dataset (swiftshop_sales_data.csv) contains approximately 63 rows with the following columns:
