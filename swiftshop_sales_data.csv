@@ -1,0 +1,64 @@
+order_id,order_date,customer_id,customer_region,product_id,product_name,category,unit_price,quantity,total_amount,payment_method,customer_rating
+1001,2024-04-19,540,North,3001,Men's T-Shirt,Clothing,19.99,3,59.97,Cash on Delivery,1
+1002,2024-09-23,523,West,4005,Floor Rug,Home Goods,120.00,4,480.00,Apple Pay,4
+1003,2025-06-13,500,,4001,Ceramic Vase,Home Goods,25.00,4,100.00,Credit Card,5
+1004,2025-05-03,520,South,3002,Women's Jeans,Clothing,49.99,3,149.97,Credit Card,
+1005,2024-07-23,582,East,4004,Throw Pillow,Home Goods,18.99,3,56.97,PayPal,4
+1006,2024-07-27,583,North,3003,Jacket Unisex,Clothing,59.99,3,179.97,Credit Card,4
+1007,2024-11-28,519,North,4001,Ceramic Vase,Home Goods,25.00,1,25.00,PayPal,5
+1008,2025-03-08,592,North,3005,Baseball Cap,Clothing,14.99,1,14.99,,5
+1009,2024-12-04,538,North,3002,Women's Jeans,Clothing,49.99,2,99.98,Apple Pay,5
+1010,2024-02-01,526,North,4002,Table Lamp,Home Goods,35.50,1,35.50,Cash on Delivery,5
+1011,2024-05-22,527,East,3003,Jacket Unisex,Clothing,59.99,3,179.97,Credit Card,
+1012,2024-12-18,524,East,3003,Jacket Unisex,Clothing,59.99,4,239.96,PayPal,5
+1013,2025-04-18,520,,4003,Coffee Maker,Home Goods,49.99,4,199.96,Cash on Delivery,3
+1014,2024-01-26,586,East,3002,Women's Jeans,Clothing,49.99,2,99.98,Apple Pay,2
+1015,2024-07-04,525,West,2005,Smartwatch C,Electronics,199.99,3,599.97,,5
+1016,2025-02-20,575,North,4004,Throw Pillow,Home Goods,18.99,2,37.98,Apple Pay,4
+1017,2024-03-02,524,South,4002,Table Lamp,Home Goods,35.50,4,142.00,Credit Card,3
+1018,2025-05-24,563,North,4001,Ceramic Vase,Home Goods,25.00,3,75.00,PayPal,1
+1019,2024-08-09,521,North,3004,Sneakers D,Clothing,79.99,3,239.97,Apple Pay,5
+1020,2024-02-19,516,East,3003,Jacket Unisex,Clothing,59.99,2,119.98,PayPal,4
+1999,2024-07-19,590,,4002,Table Lamp,Home Goods,35.50,3,106.50,,1
+2000,2024-10-09,518,North,2004,Bluetooth Speaker,Electronics,59.99,1,59.99,Credit Card,1
+2001,2024-12-25,588,East,4001,Ceramic Vase,Home Goods,25.00,2,50.00,Apple Pay,2
+1016,2025-01-19,561,North,2003,Laptop B,Electronics,799.99,1,799.99,Cash on Delivery,3.00
+1017,2025-01-08,587,North,2005,Smartwatch C,Electronics,199.99,2,399.98,Credit Card,2.00
+1018,2024-04-22,555,North,4005,Floor Rug,Home Goods,120.00,1,120.00,,2.00
+1019,2025-01-19,501,North,3001,Men's T-Shirt,Clothing,19.99,4,79.96,PayPal,
+1020,2024-10-20,597,East,3005,Baseball Cap,Clothing,14.99,3,44.97,Cash on Delivery,1.00
+1021,2025-02-06,603,South,4002,Table Lamp,Home Goods,35.50,4,142.00,Apple Pay,4.00
+1022,2025-04-17,530,East,3005,Baseball Cap,Clothing,14.99,3,44.97,Cash on Delivery,4.00
+1023,2024-01-02,604,East,2004,Bluetooth Speaker,Electronics,59.99,1,59.99,Apple Pay,3.00
+1024,2024-07-26,605,West,3002,Women's Jeans,Clothing,49.99,4,199.96,Credit Card,
+1025,2024-09-10,588,South,2004,Bluetooth Speaker,Electronics,59.99,1,59.99,PayPal,2.00
+1026,2024-06-09,513,North,4005,Floor Rug,Home Goods,120.00,3,360.00,Credit Card,1.00
+1027,2024-01-22,537,East,2002,Wireless Headphones,Electronics,89.99,3,269.97,PayPal,3.00
+1028,2025-04-25,560,West,4001,Ceramic Vase,Home Goods,25.00,4,100.00,Cash on Delivery,
+1029,2024-02-15,606,South,2003,Laptop B,Electronics,799.99,1,799.99,Apple Pay,5.00
+1030,2024-04-25,584,West,4004,Throw Pillow,Home Goods,18.99,1,18.99,Apple Pay,3.00
+1031,2024-11-18,523,East,4003,Coffee Maker,Home Goods,49.99,2,99.98,Cash on Delivery,2.00
+1032,2024-04-13,542,East,4003,Coffee Maker,Home Goods,49.99,1,49.99,PayPal,2.00
+1033,2025-05-20,535,North,2003,Laptop B,Electronics,799.99,4,3199.96,,4.00
+1034,2024-02-20,562,East,2003,Laptop B,Electronics,799.99,2,1599.98,,
+1035,2024-02-23,596,West,2002,Wireless Headphones,Electronics,89.99,4,359.96,Apple Pay,4.00
+1036,2024-12-15,554,West,2001,Smartphone A,Electronics,299.99,2,599.98,Apple Pay,2.00
+1037,2024-02-27,589,North,3001,Men's T-Shirt,Clothing,19.99,3,59.97,Cash on Delivery,1.00
+1038,2024-04-05,547,North,2004,Bluetooth Speaker,Electronics,59.99,1,59.99,Credit Card,5.00
+1039,2024-09-03,525,West,4001,Ceramic Vase,Home Goods,25.00,1,25.00,PayPal,1.00
+1040,2024-04-03,607,West,2002,Wireless Headphones,Electronics,89.99,4,359.96,Apple Pay,2.00
+1041,2024-09-10,522,East,3003,Jacket Unisex,Clothing,59.99,2,119.98,Credit Card,
+1042,2025-03-17,568,North,4005,Floor Rug,Home Goods,120.00,2,240.00,Credit Card,4.00
+1043,2025-01-14,560,South,4003,Coffee Maker,Home Goods,49.99,1,49.99,Apple Pay,3.00
+1044,2024-10-11,594,East,3001,Men's T-Shirt,Clothing,19.99,1,19.99,Cash on Delivery,2.00
+1045,2025-02-21,506,West,3004,Sneakers D,Clothing,79.99,1,79.99,,5.00
+1046,2025-01-28,523,West,4005,Floor Rug,Home Goods,120.00,1,120.00,Cash on Delivery,4.00
+1047,2024-07-08,511,North,4001,Ceramic Vase,Home Goods,25.00,1,25.00,Cash on Delivery,1.00
+1048,2024-12-07,518,North,2004,Bluetooth Speaker,Electronics,59.99,1,59.99,Cash on Delivery,4.00
+1049,2025-05-20,568,South,2001,Smartphone A,Electronics,299.99,4,1199.96,Cash on Delivery,5.00
+1050,2024-04-18,608,East,4005,Floor Rug,Home Goods,120.00,2,240.00,Cash on Delivery,2.00
+1051,2024-01-09,609,West,2002,Wireless Headphones,Electronics,89.99,1,89.99,PayPal,5.00
+1052,2024-07-12,536,East,4005,Floor Rug,Home Goods,120.00,4,480.00,Apple Pay,5.00
+1053,2024-08-04,535,East,4003,Coffee Maker,Home Goods,49.99,3,149.97,Credit Card,4.00
+1054,2024-02-08,544,North,3005,Baseball Cap,Clothing,14.99,4,59.96,PayPal,2.00
+1055,2024-01-01,591,East,2003,Laptop B,Electronics,799.99,3,2399.97,Apple Pay,
